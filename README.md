@@ -9,10 +9,10 @@ Purely aggregate evaluation stands contrary to the mission of leaving no one beh
 # Files
 
 ## Compiling Data
-This file reads in all relavent data from the National Institute of Statistics, cleans it, and combines it into usable data sets. I am not licensed to republish it here but it can be found by contacting http://www.statistics.gov.rw/
+This file reads in all relevant data from the National Institute of Statistics, cleans it, and combines it into usable data sets. I am not licensed to republish it here but it can be found by contacting http://www.statistics.gov.rw/
 
 ## Running Calculations
-This set begins featurization, operationaling aspects of the data into the monitoring SDG targets. 
+This set begins featurization, operationaling aspects of  data into SDG targets. 
 
 ## Preparation of P-Values
 Statistically analyzing socioeconomic differences in goal achievement to quantify degree of disparities
